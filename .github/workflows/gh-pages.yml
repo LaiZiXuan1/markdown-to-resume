@@ -44,9 +44,6 @@ jobs:
       - name: Build documentation site
         run: pnpm build
 
-      - name: Create CNAME
-        run: cd dist && echo "resume.yuexiaoliang.com" > CNAME
-
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.2.0
         with:
