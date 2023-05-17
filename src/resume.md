@@ -121,3 +121,10 @@ Vue生态、小程序、高德地图、uni-app、Taro、TypeScript、Electron、
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
+::: {.main-footer}
+[下载 PDF 版](来梓宣个人简历.pdf){download="来梓宣个人简历.pdf"}
+
+[打印简历](#){#print-button}
+:::
+
+::::
