@@ -10,9 +10,9 @@ export default defineConfig({
       markdown(md) {
         md.use(markdownItImsize);
       },
-      pdfName: '岳晓亮个人简历',
+      pdfName: '来梓宣个人简历',
       pdfMargin: 0,
-      webTitle: '岳晓亮个人简历 - markdown-to-resume'
+      webTitle: '来梓宣个人简历 - markdown-to-resume'
     })
   ],
   build: {
