@@ -6,7 +6,7 @@
 **求职意向：中级前端 / 北京** {.target}
 
 - **前端：** 3.5 年
-- **生日：** 1997.11.24
+- **年龄：** 26 
 - **籍贯：** 河南安阳 
 - **手机：** 13581779439 
 - **邮箱：** 13581779439@163.com 
@@ -24,18 +24,19 @@
 
 ## 个人简介
 
-- 3.5 年前端开发经验，熟练使用 `uni-app`、`微信小程序`、`JavaScript`、`Vue2全家桶`、`Vue3全家桶`、`Pinia`、`TypeScript` 等技术栈。
+- 掌握html5 css3。掌握JavaScript语言，es6等新特性。
+- 熟练使用 `Vue2全家桶`、`Vue3全家桶`、`Pinia`、`uni-app`、`微信小程序`、`JavaScript`、`TypeScript` 等技术栈。
 - 了解 `React`、 `Node.js` 等技术栈，能够快速上手。
 - 熟练使用Git等版本控制工具，能够熟练使用Git进行团队协作开发。
 - 熟悉包管理工具 `npm`、`pnpm`、`yarn`。
+- 掌握使用`jquery`、`Bootstrap`、`elementui`、`element-plus`、`ant-design`、`vant`等类库及框架。
+- 熟练使用接口文档工具 `postman`、`apifox`。
 
 ## 工作经历
 
 ### 瀚中睿方数据科技（北京）有限公司
 
 **职位：** 中级前端开发工程师
-
-**薪资：** 12K
 
 **时间：** 2022.05 - 至今
 
@@ -46,6 +47,9 @@
 - 与后端、产品、设计沟通，制定项目开发方案。
 - 根据需求封装项目通用组件，提高开发效率。
 - 根据设计图实现项目页面，保证页面样式与设计图一致。
+- 维护项目，修复项目中出现的 bug。
+
+
 
 ## 项目经验
 
@@ -53,18 +57,23 @@
 
 **时间：** 2022.07 - 2022.09
 
-**技术栈：** `Vue3`、`Pinia`、`Vue`、`Router`、`ECharts`、`ElementPlus` 、`Vite`、`NodeJS`、`微信小程序`。
+**技术栈：** `Vue3`、`Pinia`、`TypeScript`、`Router`、`ECharts`、`ElementPlus` 、`Vite`、`NodeJS`、`微信小程序`。
 
 **项目介绍：** 帮助全国各个高新区构建的一种精准支持企业创新的新型政策工具，通过对企业创新能力进行量化评价，实现对科技型企业的精准扶持。
 
 **项目职责：**
 
+- 负责部分页面开发，以及部分公共组件开发。
+- 和项目组长一起制定项目开发方案，讨论选用技术栈。
+- 和后端沟通接口，提前封装axios请求接口，准备接口返回数据常用类型。
 
 **项目架构：**
 
 - 项目分为 PC 端 + 移动端。
 - 移动端主要以 Web 为主，运行环境主要在小程序、APP 的 WebView 中。
-- 采用 `Monorepo` 的方式进行代码管理。{style="page-break-after: always"}
+
+[comment]: <> (- {style="page-break-after: always"})
+- 采用 `Monorepo` 的方式进行代码管理。
 - 仓库分为 `apps` 以及 `packages` 两部分子包。{data-print style="--print-padding: 50px 0 0 0"}
 - `apps` 包含系统级的项目，如：`score-pc`、`score-h5`、`score-weapp` 等。
 - `packages` 包含 `apps` 中项目所用的公共部分，如：`score-utils`、`score-apis`、`score-validator`、`score-build`、`hz-components`、`hz-charts`。
@@ -85,8 +94,8 @@
 
 **项目职责：**
 
-- 项目前端负责人。
-- 对小程序端主要功能（地图多边形渲染、行走路线绘制）进行技术可行性预研，并开发对应 DEMO 供组员参考。
+- 前端部分页面开发，1:1还原ui设计稿。
+- 跟组长对小程序端主要功能（地图多边形渲染、行走路线绘制）进行技术可行性预研。
 - 对 PC 端主要功能进行开发。
 
 **特色功能：**
@@ -97,21 +106,18 @@
 
 ## 开源项目
 
-- [**excel-to-json**](https://github.com/laizixuan1/excel-to-json)：Markdown 转个人简历，本简历（https://resume.yuexiaoliang.com）即是由此而来。
-
-## 技能树
-
-Vue生态、小程序、高德地图、uni-app、Taro、TypeScript、Electron、ECharts、Vite、Rollup、Nodejs、NPM、Git。{style="page-break-after: always"}
+- [**excel-to-json**](https://github.com/laizixuan1/excel-to-json)：是一个将excel文件数据转换为json数据的工具。
+- [**docs**](https://github.com/LaiZiXuan1/docs)：是一个记录个人学习笔记的仓库。
 
 ## 个人优势 {data-print style="--print-padding: 50px 0 0 0"}
 
-**经验丰富：** 前端 3.5 年
+**经验丰富：** 前端开发经验 3.5年。
 
-**热爱学习：** 包括但不限于早通勤看技术书籍、晚通勤看教学视频等。
+**热爱学习：** 利用上下班通勤时间看相关视频，电子书学习，提升自己。
 
 **代码洁癖：** 个人认为，必须有高效的编程功力才能在项目急迫的时候依然书写出优雅的代码。
 
-**抗压力强：** 。
+**抗压力强：** 在项目紧急的情况下，能够保持冷静，快速定位问题并解决。
 
 ## 社区地址
 
@@ -122,9 +128,9 @@ Vue生态、小程序、高德地图、uni-app、Taro、TypeScript、Electron、
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 ::: {.main-footer}
+
 [下载 PDF 版](来梓宣个人简历.pdf){download="来梓宣个人简历.pdf"}
 
-[打印简历](#){#print-button}
 :::
 
 ::::
