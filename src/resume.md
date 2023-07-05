@@ -55,7 +55,7 @@
 - 参与公司内部前端技术分享和培训工作，分享前端开发经验和最佳实践，提高团队成员的技术水平
   {style="page-break-after: always"}
 
-### 北京互领科技有限公司 {data-print style="--print-padding: 30px 0 0 0"}
+### 北京互领科技有限公司 {data-print style="--print-padding: 20px 0 0 0"}
 
 **职位：** 前端开发工程师-组长
 
@@ -97,7 +97,7 @@
 - `apps` 包含系统级的项目，如：`score-pc`、`score-h5`、`score-weapp` 等。
 - `packages` 包含 `apps` 中项目所用的公共部分，如：`score-utils`、`score-apis`、`score-validator`、`score-build`、`hz-components`、`hz-charts`。
 
-**特色功能：** {data-print style="--print-padding: 30px 0 0 0"}
+**特色功能：** {data-print style="--print-padding: 20px 0 0 0"}
 
 - 可通过命令行工具选择要打包的高新区、运行环境，或者一键打包全部高新区。
 - 根据项目启动参数按需 `import` 对应的静态资源、模块等。
@@ -188,7 +188,7 @@ P：平台 (Platform)
 - [**excel-to-json**](https://github.com/laizixuan1/excel-to-json)：是一个将 excel 文件数据转换为 json 数据的工具。（https://github.com/laizixuan1/excel-to-json）
 - [**docs**](https://github.com/LaiZiXuan1/docs)：是一个记录个人学习笔记的仓库。（https://github.com/LaiZiXuan1/docs）
 
-## 个人优势 {data-print style="--print-padding: 30px 0 0 0"}
+## 个人优势 {data-print style="--print-padding: 20px 0 0 0"}
 
 **经验丰富：** 前端开发经验 3.5 年。
 
