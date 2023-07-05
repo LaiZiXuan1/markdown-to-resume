@@ -92,8 +92,7 @@
 
 - 项目分为 PC 端 + 移动端。
 - 移动端主要以 Web 为主，运行环境主要在小程序、APP 的 WebView 中。
-- 采用 `Monorepo` 的方式进行代码管理。
-- 仓库分为 `apps` 以及 `packages` 两部分子包。
+- 采用 `Monorepo` 的方式进行代码管理。仓库分为 `apps` 以及 `packages` 两部分子包。
 - `apps` 包含系统级的项目，如：`score-pc`、`score-h5`、`score-weapp` 等。
 - `packages` 包含 `apps` 中项目所用的公共部分，如：`score-utils`、`score-apis`、`score-validator`、`score-build`、`hz-components`、`hz-charts`。
 
