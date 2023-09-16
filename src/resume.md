@@ -78,7 +78,7 @@
 
 ### 积分系统-重写（政府项目）
 
-**时间：** 2022.07 - 2022.09
+**时间：** 2022.11 - 至今
 
 **技术栈：** `Vue3`、`Pinia`、`TypeScript`、`Router`、`ECharts`、`ElementPlus` 、`Vite`、`NodeJS`、`微信小程序`。
 
@@ -107,7 +107,7 @@
 
 ### 火炬电子围栏（政府项目） {data-print style="--print-padding: 50px 0 0 0"}
 
-**时间：** 2022.11 - 2022.12
+**时间：** 2022.07 - 2022.11
 
 **技术栈：** Vue3、Pinia、Taro、高德地图、微信小程序、NutUI、ElementPlus、Typescript
 
